@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #implement divece name
 echo "Enter the device name:"
-read device_name
+read -r device_name
 log_file="heart_rate_log.txt"
 generate_heart_rate() {
   echo $((RANDOM % 61 + 40))
