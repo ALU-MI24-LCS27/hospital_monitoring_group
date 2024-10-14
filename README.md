@@ -1,0 +1,1 @@
+To view tasks distribution, please refer to [this assignment's project](https://github.com/orgs/ALU-MI24-LCS27/projects/2/views/2?groupedBy%5BcolumnId%5D=Assignees)
