@@ -1,3 +1,7 @@
 #!/bin/bash
-# This script creates a directory named 'archived_logs_group27'
-mkdir archived_logs_group27
+<<<<<<< HEAD
+# Log Archival Script
+
+generate_archive_name() {
+    echo "heart_rate_log.txt_$(date '+%Y%m%d_%H%M%S')"
+}
