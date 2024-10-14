@@ -16,4 +16,5 @@ do
   sleep 1
 done 
 } &
-echo "heart rate monitoring completed"
+echo "heart rate monitoring completed n background. PID: $!"
+
