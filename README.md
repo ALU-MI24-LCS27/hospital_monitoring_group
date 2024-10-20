@@ -1,7 +1,9 @@
 # learn_linux_by_doing
 
 ## Introduction
-__
+_A hospital has recently upgraded its system infrastructure to optimize data handling and improve patient monitoring. As part of this upgrade, the hospital requires a system to record heart rate data, archive logs, and securely back them up to a remote server for future access.
+In this assignment, we developed three shell scripts to manage these tasks.
+This assignment helped us learn about shell scripting, background process management, file archival, and remote backups via SSH._
 
 ## How to run the scripts
 1. Clone the repository
