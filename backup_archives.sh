@@ -3,6 +3,6 @@
 mkdir archived_logs_group27
 
 # Move archived log files to the archived_logs_group27 directory
-mv heart_rate_log.txt* archived_logs_group27
+mv heart_rate_log.txt_* archived_logs_group27
 
-scp -r 'ff613cff72d1@ff613cff72d1.601a9382.alu-cod.online' archived_logs_group27:/home/
+scp -r archived_logs_group27 'ff613cff72d1@ff613cff72d1.601a9382.alu-cod.online':/home/

@@ -1,50 +1,429 @@
-2024-10-14 13:39:59 Monitor A 86
-2024-10-14 13:40:00 Monitor A 57
-2024-10-14 13:40:01 Monitor A 87
-2024-10-14 13:40:02 Monitor A 59
-2024-10-14 13:40:03 Monitor A 65
-2024-10-14 13:40:04 Monitor A 97
-2024-10-14 13:40:05 Monitor A 91
-2024-10-14 13:40:06 Monitor A 72
-2024-10-14 13:40:07 Monitor A 47
-2024-10-14 13:40:08 Monitor A 43
-2024-10-14 13:40:09 Monitor A 74
-2024-10-14 13:40:10 Monitor A 77
-2024-10-14 13:40:11 Monitor A 65
-2024-10-14 13:40:12 Monitor A 80
-2024-10-14 13:40:13 Monitor A 59
-2024-10-14 13:40:14 Monitor A 86
-2024-10-14 13:40:15 Monitor A 73
-2024-10-14 13:40:16 Monitor A 58
-2024-10-14 13:40:17 Monitor A 79
-2024-10-14 13:40:18 Monitor A 59
-2024-10-14 13:40:19 Monitor A 54
-2024-10-14 13:40:20 Monitor A 72
-2024-10-14 13:40:21 Monitor A 52
-2024-10-14 13:40:22 Monitor A 90
-2024-10-14 13:40:23 Monitor A 91
-2024-10-14 13:40:24 Monitor A 72
-2024-10-14 13:40:25 Monitor A 92
-2024-10-14 13:40:26 Monitor A 96
-2024-10-14 13:40:27 Monitor A 74
-2024-10-14 13:40:28 Monitor A 51
-2024-10-14 13:40:29 Monitor A 47
-2024-10-14 13:40:31 Monitor A 77
-2024-10-14 13:40:32 Monitor A 93
-2024-10-14 13:40:33 Monitor A 79
-2024-10-14 13:40:34 Monitor A 51
-2024-10-14 13:40:35 Monitor A 61
-2024-10-14 13:40:36 Monitor A 50
-2024-10-14 13:40:37 Monitor A 41
-2024-10-14 13:40:38 Monitor A 87
-2024-10-14 13:40:39 Monitor A 100
-2024-10-14 13:40:40 Monitor A 47
-2024-10-14 13:40:41 Monitor A 77
-2024-10-14 13:40:42 Monitor A 77
-2024-10-14 13:40:43 Monitor A 87
-2024-10-14 13:40:44 Monitor A 47
-2024-10-14 13:40:45 Monitor A 93
-2024-10-14 13:40:46 Monitor A 63
-2024-10-14 13:40:47 Monitor A 61
-2024-10-14 13:40:48 Monitor A 64
-2024-10-14 13:40:49 Monitor A 52
+2024-10-20 14:08:03 Final_Monitor 76
+2024-10-20 14:08:04 Final_Monitor 100
+2024-10-20 14:08:05 Final_Monitor 93
+2024-10-20 14:09:44 Final_Monitor 42
+2024-10-20 14:09:45 Final_Monitor 55
+2024-10-20 14:09:46 Final_Monitor 42
+2024-10-20 14:09:47 Final_Monitor 40
+2024-10-20 14:09:48 Final_Monitor 47
+2024-10-20 14:09:49 Final_Monitor 81
+2024-10-20 14:09:50 Final_Monitor 46
+2024-10-20 14:09:51 Final_Monitor 75
+2024-10-20 14:09:52 Final_Monitor 68
+2024-10-20 14:09:53 Final_Monitor 47
+2024-10-20 14:09:54 Final_Monitor 46
+2024-10-20 14:09:55 Final_Monitor 69
+2024-10-20 14:09:56 Final_Monitor 87
+2024-10-20 14:09:57 Final_Monitor 99
+2024-10-20 14:09:58 Final_Monitor 49
+2024-10-20 14:09:59 Final_Monitor 56
+2024-10-20 14:08:22 Final_Monitor 66
+2024-10-20 14:08:23 Final_Monitor 77
+2024-10-20 14:08:24 Final_Monitor 82
+2024-10-20 14:08:25 Final_Monitor 47
+2024-10-20 14:10:04 Final_Monitor 56
+2024-10-20 14:08:27 Final_Monitor 55
+2024-10-20 14:08:28 Final_Monitor 51
+2024-10-20 14:08:29 Final_Monitor 48
+2024-10-20 14:08:30 Final_Monitor 44
+2024-10-20 14:10:09 Final_Monitor 65
+2024-10-20 14:08:32 Final_Monitor 61
+2024-10-20 14:08:33 Final_Monitor 83
+2024-10-20 14:08:34 Final_Monitor 64
+2024-10-20 14:08:35 Final_Monitor 96
+2024-10-20 14:10:14 Final_Monitor 70
+2024-10-20 14:08:37 Final_Monitor 51
+2024-10-20 14:08:38 Final_Monitor 80
+2024-10-20 14:08:39 Final_Monitor 78
+2024-10-20 14:08:40 Final_Monitor 97
+2024-10-20 14:10:19 Final_Monitor 100
+2024-10-20 14:08:42 Final_Monitor 97
+2024-10-20 14:08:43 Final_Monitor 83
+2024-10-20 14:08:44 Final_Monitor 80
+2024-10-20 14:08:45 Final_Monitor 93
+2024-10-20 14:10:24 Final_Monitor 46
+2024-10-20 14:08:47 Final_Monitor 90
+2024-10-20 14:08:48 Final_Monitor 98
+2024-10-20 14:08:49 Final_Monitor 69
+2024-10-20 14:08:50 Final_Monitor 92
+2024-10-20 14:10:29 Final_Monitor 62
+2024-10-20 14:08:52 Final_Monitor 47
+2024-10-20 14:08:53 Final_Monitor 96
+2024-10-20 14:08:54 Final_Monitor 84
+2024-10-20 14:08:55 Final_Monitor 51
+2024-10-20 14:10:34 Final_Monitor 76
+2024-10-20 14:08:57 Final_Monitor 70
+2024-10-20 14:08:58 Final_Monitor 54
+2024-10-20 14:08:59 Final_Monitor 68
+2024-10-20 14:09:00 Final_Monitor 90
+2024-10-20 14:10:39 Final_Monitor 77
+2024-10-20 14:09:02 Final_Monitor 88
+2024-10-20 14:09:03 Final_Monitor 86
+2024-10-20 14:09:04 Final_Monitor 54
+2024-10-20 14:09:05 Final_Monitor 70
+2024-10-20 14:10:44 Final_Monitor 40
+2024-10-20 14:09:07 Final_Monitor 83
+2024-10-20 14:09:08 Final_Monitor 42
+2024-10-20 14:09:09 Final_Monitor 59
+2024-10-20 14:09:10 Final_Monitor 45
+2024-10-20 14:09:11 Final_Monitor 57
+2024-10-20 14:09:12 Final_Monitor 55
+2024-10-20 14:09:13 Final_Monitor 84
+2024-10-20 14:09:14 Final_Monitor 85
+2024-10-20 14:09:15 Final_Monitor 43
+2024-10-20 14:09:16 Final_Monitor 81
+2024-10-20 14:09:17 Final_Monitor 45
+2024-10-20 14:09:18 Final_Monitor 85
+2024-10-20 14:09:19 Final_Monitor 65
+2024-10-20 14:09:20 Final_Monitor 73
+2024-10-20 14:09:21 Final_Monitor 91
+2024-10-20 14:09:22 Final_Monitor 81
+2024-10-20 14:09:23 Final_Monitor 65
+2024-10-20 14:09:24 Final_Monitor 75
+2024-10-20 14:09:25 Final_Monitor 88
+2024-10-20 14:09:26 Final_Monitor 42
+2024-10-20 14:09:27 Final_Monitor 84
+2024-10-20 14:09:28 Final_Monitor 94
+2024-10-20 14:09:29 Final_Monitor 50
+2024-10-20 14:09:30 Final_Monitor 80
+2024-10-20 14:09:31 Final_Monitor 76
+2024-10-20 14:09:32 Final_Monitor 88
+2024-10-20 14:09:33 Final_Monitor 97
+2024-10-20 14:09:34 Final_Monitor 73
+2024-10-20 14:09:35 Final_Monitor 57
+2024-10-20 14:11:14 Final_Monitor 41
+2024-10-20 14:09:37 Final_Monitor 83
+2024-10-20 14:09:38 Final_Monitor 72
+2024-10-20 14:09:39 Final_Monitor 43
+2024-10-20 14:09:40 Final_Monitor 58
+2024-10-20 14:09:41 Final_Monitor 83
+2024-10-20 14:09:42 Final_Monitor 74
+2024-10-20 14:09:43 Final_Monitor 99
+2024-10-20 14:09:44 Final_Monitor 48
+2024-10-20 14:09:45 Final_Monitor 79
+2024-10-20 14:11:24 Final_Monitor 93
+2024-10-20 14:11:25 Final_Monitor 54
+2024-10-20 14:11:26 Final_Monitor 68
+2024-10-20 14:11:27 Final_Monitor 71
+2024-10-20 14:11:28 Final_Monitor 64
+2024-10-20 14:11:29 Final_Monitor 90
+2024-10-20 14:11:30 Final_Monitor 85
+2024-10-20 14:11:31 Final_Monitor 82
+2024-10-20 14:11:32 Final_Monitor 56
+2024-10-20 14:11:33 Final_Monitor 63
+2024-10-20 14:11:34 Final_Monitor 42
+2024-10-20 14:11:35 Final_Monitor 99
+2024-10-20 14:11:36 Final_Monitor 84
+2024-10-20 14:11:37 Final_Monitor 80
+2024-10-20 14:11:38 Final_Monitor 96
+2024-10-20 14:10:01 Final_Monitor 69
+2024-10-20 14:10:02 Final_Monitor 40
+2024-10-20 14:10:03 Final_Monitor 95
+2024-10-20 14:10:04 Final_Monitor 65
+2024-10-20 14:10:05 Final_Monitor 86
+2024-10-20 14:11:44 Final_Monitor 85
+2024-10-20 14:11:45 Final_Monitor 60
+2024-10-20 14:11:46 Final_Monitor 85
+2024-10-20 14:11:47 Final_Monitor 47
+2024-10-20 14:11:48 Final_Monitor 63
+2024-10-20 14:11:49 Final_Monitor 44
+2024-10-20 14:11:50 Final_Monitor 57
+2024-10-20 14:11:51 Final_Monitor 84
+2024-10-20 14:11:52 Final_Monitor 66
+2024-10-20 14:11:53 Final_Monitor 61
+2024-10-20 14:11:54 Final_Monitor 98
+2024-10-20 14:11:55 Final_Monitor 48
+2024-10-20 14:11:56 Final_Monitor 76
+2024-10-20 14:11:57 Final_Monitor 93
+2024-10-20 14:11:58 Final_Monitor 52
+2024-10-20 14:11:59 Final_Monitor 42
+2024-10-20 14:12:00 Final_Monitor 59
+2024-10-20 14:12:01 Final_Monitor 81
+2024-10-20 14:12:02 Final_Monitor 61
+2024-10-20 14:12:03 Final_Monitor 97
+2024-10-20 14:12:04 Final_Monitor 66
+2024-10-20 14:12:05 Final_Monitor 84
+2024-10-20 14:12:06 Final_Monitor 44
+2024-10-20 14:12:07 Final_Monitor 81
+2024-10-20 14:12:08 Final_Monitor 66
+2024-10-20 14:12:09 Final_Monitor 59
+2024-10-20 14:12:10 Final_Monitor 49
+2024-10-20 14:12:11 Final_Monitor 87
+2024-10-20 14:12:12 Final_Monitor 59
+2024-10-20 14:12:13 Final_Monitor 58
+2024-10-20 14:12:14 Final_Monitor 72
+2024-10-20 14:12:15 Final_Monitor 53
+2024-10-20 14:12:17 Final_Monitor 86
+2024-10-20 14:12:18 Final_Monitor 40
+2024-10-20 14:12:19 Final_Monitor 62
+2024-10-20 14:10:41 Final_Monitor 63
+2024-10-20 14:10:42 Final_Monitor 47
+2024-10-20 14:10:43 Final_Monitor 83
+2024-10-20 14:10:44 Final_Monitor 66
+2024-10-20 14:10:45 Final_Monitor 66
+2024-10-20 14:10:46 Final_Monitor 72
+2024-10-20 14:10:47 Final_Monitor 72
+2024-10-20 14:10:48 Final_Monitor 88
+2024-10-20 14:10:49 Final_Monitor 70
+2024-10-20 14:10:50 Final_Monitor 68
+2024-10-20 14:10:51 Final_Monitor 95
+2024-10-20 14:10:52 Final_Monitor 95
+2024-10-20 14:10:53 Final_Monitor 69
+2024-10-20 14:10:54 Final_Monitor 91
+2024-10-20 14:10:55 Final_Monitor 96
+2024-10-20 14:10:56 Final_Monitor 85
+2024-10-20 14:10:57 Final_Monitor 54
+2024-10-20 14:10:58 Final_Monitor 75
+2024-10-20 14:10:59 Final_Monitor 57
+2024-10-20 14:11:00 Final_Monitor 55
+2024-10-20 14:11:01 Final_Monitor 76
+2024-10-20 14:11:02 Final_Monitor 56
+2024-10-20 14:11:03 Final_Monitor 72
+2024-10-20 14:11:04 Final_Monitor 41
+2024-10-20 14:11:05 Final_Monitor 80
+2024-10-20 14:11:06 Final_Monitor 88
+2024-10-20 14:11:07 Final_Monitor 96
+2024-10-20 14:11:08 Final_Monitor 91
+2024-10-20 14:11:09 Final_Monitor 42
+2024-10-20 14:11:10 Final_Monitor 43
+2024-10-20 14:11:11 Final_Monitor 45
+2024-10-20 14:11:12 Final_Monitor 81
+2024-10-20 14:11:13 Final_Monitor 40
+2024-10-20 14:11:14 Final_Monitor 45
+2024-10-20 14:11:15 Final_Monitor 82
+2024-10-20 14:11:16 Final_Monitor 100
+2024-10-20 14:11:17 Final_Monitor 42
+2024-10-20 14:11:18 Final_Monitor 49
+2024-10-20 14:11:19 Final_Monitor 56
+2024-10-20 14:11:20 Final_Monitor 65
+2024-10-20 14:11:21 Final_Monitor 45
+2024-10-20 14:11:22 Final_Monitor 68
+2024-10-20 14:11:23 Final_Monitor 99
+2024-10-20 14:11:24 Final_Monitor 82
+2024-10-20 14:11:25 Final_Monitor 96
+2024-10-20 14:11:26 Final_Monitor 93
+2024-10-20 14:11:27 Final_Monitor 79
+2024-10-20 14:11:28 Final_Monitor 42
+2024-10-20 14:11:29 Final_Monitor 90
+2024-10-20 14:11:30 Final_Monitor 44
+2024-10-20 14:11:31 Final_Monitor 62
+2024-10-20 14:11:32 Final_Monitor 62
+2024-10-20 14:11:33 Final_Monitor 78
+2024-10-20 14:11:34 Final_Monitor 46
+2024-10-20 14:11:35 Final_Monitor 93
+2024-10-20 14:11:36 Final_Monitor 85
+2024-10-20 14:11:37 Final_Monitor 73
+2024-10-20 14:11:39 Final_Monitor 44
+2024-10-20 14:11:40 Final_Monitor 77
+2024-10-20 14:11:41 Final_Monitor 94
+2024-10-20 14:11:42 Final_Monitor 99
+2024-10-20 14:11:43 Final_Monitor 58
+2024-10-20 14:11:44 Final_Monitor 89
+2024-10-20 14:11:45 Final_Monitor 80
+2024-10-20 14:11:46 Final_Monitor 63
+2024-10-20 14:11:47 Final_Monitor 75
+2024-10-20 14:11:48 Final_Monitor 77
+2024-10-20 14:11:49 Final_Monitor 82
+2024-10-20 14:11:50 Final_Monitor 72
+2024-10-20 14:11:51 Final_Monitor 96
+2024-10-20 14:11:52 Final_Monitor 97
+2024-10-20 14:11:53 Final_Monitor 88
+2024-10-20 14:11:54 Final_Monitor 77
+2024-10-20 14:11:55 Final_Monitor 49
+2024-10-20 14:11:56 Final_Monitor 73
+2024-10-20 14:11:57 Final_Monitor 79
+2024-10-20 14:11:58 Final_Monitor 87
+2024-10-20 14:11:59 Final_Monitor 71
+2024-10-20 14:12:00 Final_Monitor 72
+2024-10-20 14:12:01 Final_Monitor 88
+2024-10-20 14:12:02 Final_Monitor 86
+2024-10-20 14:12:03 Final_Monitor 64
+2024-10-20 14:12:04 Final_Monitor 59
+2024-10-20 14:12:05 Final_Monitor 89
+2024-10-20 14:12:06 Final_Monitor 70
+2024-10-20 14:12:07 Final_Monitor 93
+2024-10-20 14:12:08 Final_Monitor 53
+2024-10-20 14:12:09 Final_Monitor 49
+2024-10-20 14:12:10 Final_Monitor 94
+2024-10-20 14:12:11 Final_Monitor 91
+2024-10-20 14:12:12 Final_Monitor 73
+2024-10-20 14:12:13 Final_Monitor 67
+2024-10-20 14:12:14 Final_Monitor 78
+2024-10-20 14:12:15 Final_Monitor 92
+2024-10-20 14:12:16 Final_Monitor 92
+2024-10-20 14:12:17 Final_Monitor 41
+2024-10-20 14:12:18 Final_Monitor 100
+2024-10-20 14:12:19 Final_Monitor 63
+2024-10-20 14:12:20 Final_Monitor 60
+2024-10-20 14:12:21 Final_Monitor 65
+2024-10-20 14:12:22 Final_Monitor 86
+2024-10-20 14:12:23 Final_Monitor 77
+2024-10-20 14:12:24 Final_Monitor 61
+2024-10-20 14:12:25 Final_Monitor 90
+2024-10-20 14:12:26 Final_Monitor 96
+2024-10-20 14:12:27 Final_Monitor 62
+2024-10-20 14:12:28 Final_Monitor 46
+2024-10-20 14:12:29 Final_Monitor 55
+2024-10-20 14:12:30 Final_Monitor 45
+2024-10-20 14:12:31 Final_Monitor 89
+2024-10-20 14:12:32 Final_Monitor 55
+2024-10-20 14:12:33 Final_Monitor 46
+2024-10-20 14:12:34 Final_Monitor 48
+2024-10-20 14:12:35 Final_Monitor 59
+2024-10-20 14:12:36 Final_Monitor 53
+2024-10-20 14:12:37 Final_Monitor 50
+2024-10-20 14:12:38 Final_Monitor 93
+2024-10-20 14:12:39 Final_Monitor 71
+2024-10-20 14:12:40 Final_Monitor 74
+2024-10-20 14:12:41 Final_Monitor 46
+2024-10-20 14:12:42 Final_Monitor 95
+2024-10-20 14:12:43 Final_Monitor 96
+2024-10-20 14:12:44 Final_Monitor 92
+2024-10-20 14:12:45 Final_Monitor 72
+2024-10-20 14:12:46 Final_Monitor 51
+2024-10-20 14:12:47 Final_Monitor 44
+2024-10-20 14:12:48 Final_Monitor 94
+2024-10-20 14:12:49 Final_Monitor 87
+2024-10-20 14:12:50 Final_Monitor 65
+2024-10-20 14:12:51 Final_Monitor 68
+2024-10-20 14:12:52 Final_Monitor 68
+2024-10-20 14:12:53 Final_Monitor 89
+2024-10-20 14:12:54 Final_Monitor 48
+2024-10-20 14:12:55 Final_Monitor 49
+2024-10-20 14:12:56 Final_Monitor 40
+2024-10-20 14:12:57 Final_Monitor 58
+2024-10-20 14:12:58 Final_Monitor 59
+2024-10-20 14:12:59 Final_Monitor 61
+2024-10-20 14:13:00 Final_Monitor 98
+2024-10-20 14:13:01 Final_Monitor 99
+2024-10-20 14:13:02 Final_Monitor 79
+2024-10-20 14:13:03 Final_Monitor 94
+2024-10-20 14:13:04 Final_Monitor 54
+2024-10-20 14:13:05 Final_Monitor 76
+2024-10-20 14:13:06 Final_Monitor 86
+2024-10-20 14:13:07 Final_Monitor 62
+2024-10-20 14:13:08 Final_Monitor 55
+2024-10-20 14:13:09 Final_Monitor 100
+2024-10-20 14:13:10 Final_Monitor 54
+2024-10-20 14:13:11 Final_Monitor 48
+2024-10-20 14:13:12 Final_Monitor 59
+2024-10-20 14:13:13 Final_Monitor 43
+2024-10-20 14:13:14 Final_Monitor 82
+2024-10-20 14:13:15 Final_Monitor 44
+2024-10-20 14:13:16 Final_Monitor 77
+2024-10-20 14:13:17 Final_Monitor 93
+2024-10-20 14:13:18 Final_Monitor 53
+2024-10-20 14:13:19 Final_Monitor 71
+2024-10-20 14:13:20 Final_Monitor 100
+2024-10-20 14:13:21 Final_Monitor 57
+2024-10-20 14:13:22 Final_Monitor 72
+2024-10-20 14:13:23 Final_Monitor 73
+2024-10-20 14:13:24 Final_Monitor 80
+2024-10-20 14:13:25 Final_Monitor 68
+2024-10-20 14:13:26 Final_Monitor 81
+2024-10-20 14:13:27 Final_Monitor 49
+2024-10-20 14:13:28 Final_Monitor 49
+2024-10-20 14:13:29 Final_Monitor 43
+2024-10-20 14:13:30 Final_Monitor 80
+2024-10-20 14:13:31 Final_Monitor 49
+2024-10-20 14:13:32 Final_Monitor 72
+2024-10-20 14:13:33 Final_Monitor 44
+2024-10-20 14:13:34 Final_Monitor 87
+2024-10-20 14:13:35 Final_Monitor 43
+2024-10-20 14:15:14 Final_Monitor 77
+2024-10-20 14:13:37 Final_Monitor 41
+2024-10-20 14:13:38 Final_Monitor 71
+2024-10-20 14:13:39 Final_Monitor 81
+2024-10-20 14:13:40 Final_Monitor 48
+2024-10-20 14:15:19 Final_Monitor 79
+2024-10-20 14:13:42 Final_Monitor 85
+2024-10-20 14:13:43 Final_Monitor 83
+2024-10-20 14:13:44 Final_Monitor 84
+2024-10-20 14:13:45 Final_Monitor 81
+2024-10-20 14:15:24 Final_Monitor 97
+2024-10-20 14:13:47 Final_Monitor 55
+2024-10-20 14:13:48 Final_Monitor 66
+2024-10-20 14:13:49 Final_Monitor 42
+2024-10-20 14:13:50 Final_Monitor 98
+2024-10-20 14:15:30 Final_Monitor 68
+2024-10-20 14:13:52 Final_Monitor 98
+2024-10-20 14:13:53 Final_Monitor 57
+2024-10-20 14:13:54 Final_Monitor 70
+2024-10-20 14:13:55 Final_Monitor 76
+2024-10-20 14:15:35 Final_Monitor 69
+2024-10-20 14:13:57 Final_Monitor 88
+2024-10-20 14:13:58 Final_Monitor 58
+2024-10-20 14:13:59 Final_Monitor 56
+2024-10-20 14:14:00 Final_Monitor 40
+2024-10-20 14:15:40 Final_Monitor 81
+2024-10-20 14:14:02 Final_Monitor 62
+2024-10-20 14:14:03 Final_Monitor 53
+2024-10-20 14:14:04 Final_Monitor 74
+2024-10-20 14:14:05 Final_Monitor 84
+2024-10-20 14:15:45 Final_Monitor 98
+2024-10-20 14:14:07 Final_Monitor 69
+2024-10-20 14:14:08 Final_Monitor 54
+2024-10-20 14:14:09 Final_Monitor 53
+2024-10-20 14:14:10 Final_Monitor 58
+2024-10-20 14:15:50 Final_Monitor 100
+2024-10-20 14:14:12 Final_Monitor 88
+2024-10-20 14:14:13 Final_Monitor 53
+2024-10-20 14:14:14 Final_Monitor 93
+2024-10-20 14:14:15 Final_Monitor 64
+2024-10-20 14:15:55 Final_Monitor 95
+2024-10-20 14:14:17 Final_Monitor 69
+2024-10-20 14:14:18 Final_Monitor 76
+2024-10-20 14:14:19 Final_Monitor 59
+2024-10-20 14:14:20 Final_Monitor 80
+2024-10-20 14:16:00 Final_Monitor 98
+2024-10-20 14:14:22 Final_Monitor 42
+2024-10-20 14:14:23 Final_Monitor 53
+2024-10-20 14:14:24 Final_Monitor 98
+2024-10-20 14:14:25 Final_Monitor 46
+2024-10-20 14:14:26 Final_Monitor 100
+2024-10-20 14:14:27 Final_Monitor 97
+2024-10-20 14:14:28 Final_Monitor 71
+2024-10-20 14:14:29 Final_Monitor 68
+2024-10-20 14:14:30 Final_Monitor 66
+2024-10-20 14:14:31 Final_Monitor 60
+2024-10-20 14:14:32 Final_Monitor 42
+2024-10-20 14:14:33 Final_Monitor 63
+2024-10-20 14:14:34 Final_Monitor 73
+2024-10-20 14:14:35 Final_Monitor 100
+2024-10-20 14:14:36 Final_Monitor 55
+2024-10-20 14:14:37 Final_Monitor 44
+2024-10-20 14:14:38 Final_Monitor 77
+2024-10-20 14:14:39 Final_Monitor 62
+2024-10-20 14:14:40 Final_Monitor 78
+2024-10-20 14:14:41 Final_Monitor 47
+2024-10-20 14:14:42 Final_Monitor 61
+2024-10-20 14:14:43 Final_Monitor 87
+2024-10-20 14:14:44 Final_Monitor 79
+2024-10-20 14:14:45 Final_Monitor 97
+2024-10-20 14:14:46 Final_Monitor 93
+2024-10-20 14:14:48 Final_Monitor 44
+2024-10-20 14:14:49 Final_Monitor 79
+2024-10-20 14:14:50 Final_Monitor 73
+2024-10-20 14:14:51 Final_Monitor 65
+2024-10-20 14:14:52 Final_Monitor 90
+2024-10-20 14:14:53 Final_Monitor 60
+2024-10-20 14:14:54 Final_Monitor 82
+2024-10-20 14:14:55 Final_Monitor 98
+2024-10-20 14:14:56 Final_Monitor 49
+2024-10-20 14:14:57 Final_Monitor 81
+2024-10-20 14:14:58 Final_Monitor 71
+2024-10-20 14:14:59 Final_Monitor 82
+2024-10-20 14:15:00 Final_Monitor 97
+2024-10-20 14:15:01 Final_Monitor 98
+2024-10-20 14:15:02 Final_Monitor 87
+2024-10-20 14:15:03 Final_Monitor 74
+2024-10-20 14:15:04 Final_Monitor 66
+2024-10-20 14:15:05 Final_Monitor 63
+2024-10-20 14:15:06 Final_Monitor 80
+2024-10-20 14:15:07 Final_Monitor 67
+2024-10-20 14:15:08 Final_Monitor 49
+2024-10-20 14:15:09 Final_Monitor 75
+2024-10-20 14:15:10 Final_Monitor 90
+2024-10-20 14:15:11 Final_Monitor 51
+2024-10-20 14:15:12 Final_Monitor 75
+2024-10-20 14:15:13 Final_Monitor 44
